@@ -1,0 +1,38 @@
+[
+    {
+        "name": "The Day I Rice",
+        "color": "#f6a8a6",
+        "textColor": "#dffffff",
+        "radius": 100
+    },
+    {
+        "name": "The Road Less Travelled",
+        "color": "#e3992e",
+        "textColor": "#dffffff",
+        "radius": 120
+    },
+    {
+        "name": "The Cassini Spacedrift",
+        "color": "#c0eccc",
+        "textColor": "#dffffff",
+        "radius": 120
+    },
+    {
+        "name": "Pub Circuit",
+        "color": "#f6c27d",
+        "textColor": "#dffffff",
+        "radius": 95
+    },
+    {
+        "name": "Bonsai",
+        "color": "#d5e0c0",
+        "textColor": "#dffffff",
+        "radius": 80
+    },
+    {
+        "name": "Signal Lost",
+        "color": "#ffecbe",
+        "textColor": "#dffffff",
+        "radius": 95
+    }
+]
